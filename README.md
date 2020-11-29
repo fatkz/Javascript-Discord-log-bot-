@@ -13,7 +13,8 @@ write cmd npm init -y code
 
 npm install discord.js 
 
-
+# start project
+click start.bat
 
 
 
